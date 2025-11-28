@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+newspaper3k
+feedparser
+python-multipart
+lxml_html_clean
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]==1.7.4
+python-jose
+bcrypt==4.0.1
+aiosmtplib
+pydantic[email]
+python-dotenv
